@@ -1,5 +1,6 @@
-*.jpeg*
-*.JPEG*
+*.jpeg
+*.JPEG
 *.png
 *.jpg
 *.JPG
+/output/*
