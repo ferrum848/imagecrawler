@@ -3,4 +3,4 @@
 *.png
 *.jpg
 *.JPG
-/output/*
+output/*
